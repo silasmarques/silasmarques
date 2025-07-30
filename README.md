@@ -56,7 +56,10 @@ Ela auxilia em:
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 
-### 📫 Me encontre por aqui:
-💼[LinkedIn](https://www.linkedin.com/in/silasmarques/)
-📸[Instagram @silasmarques.f](https://www.instagram.com/silasmarques.f/)
-🤖[Deby - Especialista em QA e Testes de Software](https://chatgpt.com/g/g-68506cfdeb5881918d9031c4807e3873-deby-especialista-em-qa-e-testes-de-software)) 
+### 🌐 Me acompanhe por aí
+
+- 📸 [Instagram – @silasmarques.f](https://www.instagram.com/silasmarques.f/)
+- 💼 [LinkedIn – Silas Marques](https://www.linkedin.com/in/silasmarques/)
+- 🤖 [Deby – Especialista em QA e Testes de Software](https://chatgpt.com/g/g-68506cfdeb5881918d9031c4807e3873-deby-especialista-em-qa-e-testes-de-software)
+
+

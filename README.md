@@ -58,8 +58,7 @@ Ela auxilia em:
 ---
 
 ### 🌐 Me acompanhe por aí
-
-────────────────────────────────────────────
+──────────────────────────────────────────────────
 
 - 📸 [Instagram – @silasmarques.f](https://www.instagram.com/silasmarques.f/)
 - 💼 [LinkedIn – Silas Marques](https://www.linkedin.com/in/silasmarques/)
@@ -72,6 +71,7 @@ Ela auxilia em:
 Se quiser trocar ideias sobre qualidade, testes automatizados, IA aplicada ao QA ou boas práticas:
 
 📬 [Me chama no LinkedIn](https://www.linkedin.com/in/silasmarques/)
+
 
 
 

@@ -56,15 +56,23 @@ Ela auxilia em:
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
+
 ### 🌐 Me acompanhe por aí
 
-─────────────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────
 
 - 📸 [Instagram – @silasmarques.f](https://www.instagram.com/silasmarques.f/)
 - 💼 [LinkedIn – Silas Marques](https://www.linkedin.com/in/silasmarques/)
 - 🤖 [Deby – Especialista em QA e Testes de Software](https://chatgpt.com/g/g-68506cfdeb5881918d9031c4807e3873-deby-especialista-em-qa-e-testes-de-software)
 
 ---
+
+### 🤝 Vamos conversar?
+
+Se quiser trocar ideias sobre qualidade, testes automatizados, IA aplicada ao QA ou boas práticas:
+
+📬 [Me chama no LinkedIn](https://www.linkedin.com/in/silasmarques/)
+
 
 
 

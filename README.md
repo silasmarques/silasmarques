@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Silas!</h1>
+# 👋 Olá, eu sou o Silas!</h1>
 
 Sou Engenheiro de Qualidade de Software com +13 anos de experiência em testes, automação, QA ágil e, mais recentemente, com **IA aplicada à Qualidade de Software**.
 
@@ -7,6 +7,7 @@ Atualmente, além de atuar com testes de ponta a ponta (E2E, APIs e mobile), tam
 ---
 
 ## 🧪 Sobre mim
+
 - 🚀 De apagador de incêndios a arquiteto de qualidade contínua
 Em projetos onde QA era visto como “última etapa do ciclo”, entrei para mudar o jogo: estruturei processos ponta a ponta, implementei Bug Reviews e trouxe rastreabilidade real para o que antes era só feeling.
 Hoje, ajudo times a entregarem software com confiança — do planejamento até o deploy.
@@ -22,8 +23,8 @@ Hoje, ajudo times a entregarem software com confiança — do planejamento até 
 - Sou movido por clareza, rastreabilidade e melhoria contínua. Onde passo, deixo processos mais eficientes, falhas mais visíveis e decisões mais inteligentes.
 - Acredito que qualidade não se testa no final — se constrói desde o começo.
 
-🤖 IA aplicada ao QA
-## 🧠 Conheça a Deby, minha IA especialista em QA
+## 🤖 IA aplicada ao QA
+🧠 Conheça a Deby, minha IA especialista em QA
 
 A Deby foi treinada com:
 - Agile Testing – Lisa Crispin e Janet Gregory  
@@ -43,6 +44,7 @@ Ela auxilia em:
 > Quer conversar com ela? 👉 [Acesse aqui](https://chatgpt.com/g/g-68506cfdeb5881918d9031c4807e3873-deby-especialista-em-qa-e-testes-de-software)
 
 ## ⚙️ Tecnologias e Ferramentas
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST--Assured-6DB33F?style=for-the-badge)
@@ -54,6 +56,8 @@ Ela auxilia em:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+---
 
 ---
 

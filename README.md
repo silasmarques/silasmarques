@@ -6,7 +6,7 @@ Atualmente, além de atuar com testes de ponta a ponta (E2E, APIs e mobile), tam
 
 ---
 
-### 🧪 Sobre mim
+## 🧪 Sobre mim
 - 🚀 De apagador de incêndios a arquiteto de qualidade contínua
 Em projetos onde QA era visto como “última etapa do ciclo”, entrei para mudar o jogo: estruturei processos ponta a ponta, implementei Bug Reviews e trouxe rastreabilidade real para o que antes era só feeling.
 Hoje, ajudo times a entregarem software com confiança — do planejamento até o deploy.
@@ -23,7 +23,7 @@ Hoje, ajudo times a entregarem software com confiança — do planejamento até 
 - Acredito que qualidade não se testa no final — se constrói desde o começo.
 
 🤖 IA aplicada ao QA
-### 🧠 Conheça a Deby, minha IA especialista em QA
+## 🧠 Conheça a Deby, minha IA especialista em QA
 
 A Deby foi treinada com:
 - Agile Testing – Lisa Crispin e Janet Gregory  
@@ -42,7 +42,7 @@ Ela auxilia em:
 
 > Quer conversar com ela? 👉 [Acesse aqui](https://chatgpt.com/g/g-68506cfdeb5881918d9031c4807e3873-deby-especialista-em-qa-e-testes-de-software)
 
-### ⚙️ Tecnologias e Ferramentas
+## ⚙️ Tecnologias e Ferramentas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST--Assured-6DB33F?style=for-the-badge)
@@ -57,7 +57,7 @@ Ela auxilia em:
 
 ---
 
-### 🌐 Me acompanhe por aí
+## 🌐 Me acompanhe por aí
 ──────────────────────────────────────────────────
 
 - 📸 [Instagram – @silasmarques.f](https://www.instagram.com/silasmarques.f/)
@@ -66,7 +66,7 @@ Ela auxilia em:
 
 ---
 
-### 🤝 Vamos conversar?
+## 🤝 Vamos conversar?
 
 Se quiser trocar ideias sobre qualidade, testes automatizados, IA aplicada ao QA ou boas práticas:
 

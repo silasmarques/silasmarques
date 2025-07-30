@@ -63,7 +63,8 @@ Ela auxilia em:
 - 💼 [LinkedIn – Silas Marques](https://www.linkedin.com/in/silasmarques/)
 - 🤖 [Deby – Especialista em QA e Testes de Software](https://chatgpt.com/g/g-68506cfdeb5881918d9031c4807e3873-deby-especialista-em-qa-e-testes-de-software)
 
----
+<hr style="height:1px;border:none;background-color:#444;" />
+
 
 
 

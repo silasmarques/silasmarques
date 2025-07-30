@@ -59,8 +59,4 @@ Ela auxilia em:
 ### 📫 Me encontre por aqui:
 💼[LinkedIn](https://www.linkedin.com/in/silasmarques/)
 📸[Instagram @silasmarques.f](https://www.instagram.com/silasmarques.f/)
-🤖[Deby - Especialista em QA e Testes de Software](https://chatgpt.com/g/g-68506cfdeb5881918d9031c4807e3873-deby-especialista-em-qa-e-testes-de-software))
-
-
-     
-
+🤖[Deby - Especialista em QA e Testes de Software](https://chatgpt.com/g/g-68506cfdeb5881918d9031c4807e3873-deby-especialista-em-qa-e-testes-de-software)) 

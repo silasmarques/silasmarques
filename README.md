@@ -47,11 +47,13 @@ Ela auxilia em:
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST--Assured-6DB33F?style=for-the-badge)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://camo.githubusercontent.com/7253edf52d670eb00fe4519b1030207910bc574ff302c7f4f07f3a78a9f057db/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537761676765722d3835454132443f7374796c653d666c6174266c6f676f3d73776167676572266c6f676f436f6c6f723d626c61636b)
+![Swagger](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge)
 ![BDD](https://img.shields.io/badge/BDD-4B32C3?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Notion](https://camo.githubusercontent.com/48ee1627a7a1fce0b7a719ae3f4cb6ef52bd1d5bb9b8fe8024f27311687b75a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f74696f6e2d3030303030303f7374796c653d666c6174266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d7768697465)
 
 ### 📫 Me encontre por aqui:
 - [LinkedIn](https://www.linkedin.com/in/silasmarques/)

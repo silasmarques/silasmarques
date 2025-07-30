@@ -2,6 +2,8 @@
 
 - 🔭 Atuo como Qualidade de Software, com foco em estruturar processos, otimizar fluxos e assegurar entregas de alto nível. Acredito que qualidade vai muito além dos testes — envolve prevenção, observabilidade e uma cultura de melhoria contínua em cada etapa do produto.
 ________________________________________________________________________________
+📝 Sobre mim
+
 - 🚀 De apagador de incêndios a arquiteto de qualidade contínua
 Em projetos onde QA era visto como “última etapa do ciclo”, entrei para mudar o jogo: estruturei processos ponta a ponta, implementei Bug Reviews e trouxe rastreabilidade real para o que antes era só feeling.
 Hoje, ajudo times a entregarem software com confiança — do planejamento até o deploy.
